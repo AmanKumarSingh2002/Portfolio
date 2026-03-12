@@ -630,7 +630,7 @@ h3.my-profession {
     border: solid 6px var(--bg-black-100);
     border-radius: 5px;
     cursor: pointer;
-    height: 300px;
+    /* height: 300px; */
 }
 
 .portfolio .portfolio-item-inner .portfolio-img img {
